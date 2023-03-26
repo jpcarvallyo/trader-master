@@ -2,7 +2,6 @@ import React from 'react';
 import './style.css';
 
 function Spread({ spread }) {
-	console.log('Spread: ', spread)
 	return (
 		<div className="spread-area">
           <ul>
