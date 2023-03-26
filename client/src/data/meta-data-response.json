@@ -1,0 +1,70 @@
+{
+	"status": {
+		"timestamp": "2021-12-01T00:28:15.008Z",
+		"error_code": 0,
+		"error_message": null,
+		"elapsed": 19,
+		"credit_count": 1,
+		"notice": null
+	},
+	"data": {
+		"10": {
+			"id": 10,
+			"name": "Freicoin",
+			"symbol": "FRC",
+			"category": "coin",
+			"description": "Freicoin (FRC) is a cryptocurrency . Users are able to generate FRC through the process of mining. Freicoin has a current supply of 100,000,000 with 57,502,113.20557414 in circulation. The last known price of Freicoin is 0.0114808 USD and is down -0.89 over the last 24 hours. It is currently trading on 1 active market(s) with $116.42 traded over the last 24 hours. More information can be found at http://freico.in.",
+			"slug": "freicoin",
+			"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10.png",
+			"subreddit": "",
+			"notice": "",
+			"tags": [
+				"mineable",
+				"pow",
+				"sha-256"
+			],
+			"tag-names": [
+				"Mineable",
+				"PoW",
+				"SHA-256"
+			],
+			"tag-groups": [
+				"OTHER",
+				"CONSENSUS_ALGORITHM",
+				"CONSENSUS_ALGORITHM"
+			],
+			"urls": {
+				"website": [
+					"http://freico.in"
+				],
+				"twitter": [
+					"https://twitter.com/Freicoin"
+				],
+				"message_board": [
+					"https://freicoinalliance.com/"
+				],
+				"chat": [],
+				"facebook": [],
+				"explorer": [
+					"http://freicoin.info/chain/Freicoin"
+				],
+				"reddit": [],
+				"technical_doc": [
+					"http://freico.in/docs/freimarkets.pdf"
+				],
+				"source_code": [
+					"https://github.com/freicoin/freicoin"
+				],
+				"announcement": []
+			},
+			"platform": null,
+			"date_added": "2013-05-03T00:00:00.000Z",
+			"twitter_username": "Freicoin",
+			"is_hidden": 0,
+			"date_launched": null,
+			"contract_address": [],
+			"self_reported_circulating_supply": null,
+			"self_reported_tags": null
+		}
+	}
+}

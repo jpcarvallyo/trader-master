@@ -1,0 +1,37 @@
+header.main-area div.spread-area {
+	grid-row-start: 4;
+	grid-column-start: 1;
+	grid-column-end: 6;
+	display: flex;
+	justify-content: center;
+	font-size: 1.4em;
+}
+
+div.spread-area ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	list-style: none;
+	padding-inline-start: 0;
+	text-align: left;
+	margin-left: 20px;
+	letter-spacing: 2px;
+	color: #565757;
+	margin-left: 0;
+}
+div.spread-area ul li {
+	display: inline-block;
+	line-height: 1.4em;
+}
+
+header.main-area div.spread-area span {
+	font-weight: 600;
+	font-size: 36px;
+	padding: 0 10px;
+	letter-spacing: 0.1em;
+}
+
+div.spread-area li.profit-zone {
+	border-bottom: 2px solid gray;
+	padding-bottom: 20px;
+}
